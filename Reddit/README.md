@@ -1,7 +1,5 @@
-***
 # *Lazza.py*
 
-***
 Lazza.py is a handy script to remind our beloved friend that we miss him.
 # What does it do?
 
